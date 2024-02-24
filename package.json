@@ -1,0 +1,21 @@
+{
+  "name": "belajar-xpress",
+  "version": "1.0.0",
+  "description": "belajar express js",
+  "main": "index.js",
+  "scripts": {
+    "test": "-"
+  },
+  "repository": {
+    "type": "git",
+    "url": "not yet"
+  },
+  "keywords": [
+    "jancok"
+  ],
+  "author": "ahris",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
